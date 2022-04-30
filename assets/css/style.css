@@ -191,7 +191,7 @@ hr {
 /* event times */
 
 #times {
-    background-image: url('../images/dublin-city.webp');
+    background-image: url('../images/times-background-image.webp');
     background-repeat: no repeat;
     background-size: cover;
     background-repeat: center;
@@ -213,5 +213,5 @@ hr {
 
 #times h2 {
     color: #fafafa;
-    
+
 }

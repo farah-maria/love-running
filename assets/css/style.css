@@ -138,7 +138,7 @@ h1, h2 {
 hr {
     border-top: 1px solid #3a3a3a;
     width: 100%;
-    margin: 5px;
+    margin: 5px 0;
 }
 
 .left-about-heading {
@@ -194,7 +194,7 @@ hr {
     background-image: url('../images/times-background-image.webp');
     background-repeat: no repeat;
     background-size: cover;
-    background-repeat: center;
+    background-position: center;
     width: 100%;
     overflow: hidden;
 }
